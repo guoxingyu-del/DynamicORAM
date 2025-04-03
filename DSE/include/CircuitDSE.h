@@ -7,7 +7,7 @@
 
 class CircuitDSE : public DSEInterface {
 public:
-    const static int CONST_COEFFICIENT = 2;
+    const static int CONST_COEFFICIENT = 1;
 
     CircuitDSE(UntrustedStorageInterface* storage, RandForOramInterface* rand_gen, int bucket_size, int capacity_blocks, set<pair<string, int>>& database);
     vector<int> Search(const string& keyword);

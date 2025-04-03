@@ -2,11 +2,11 @@
 Implementation for dynamic Path ORAM and dynamic Circuit ORAM
 
 ## Directories
-# ORAM
+### ORAM
 ORAM implentations
 
-# OPQ
+### OPQ
 Oblivious Priority Queue based on ORAM
 
-# DSE
+### DSE
 Dynamic Searchable Encryption based on ORAM

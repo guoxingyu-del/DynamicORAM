@@ -14,7 +14,7 @@
 #include "Utils.h"
 
 // change test file name here
-const string PerformanceTester::FIELNAME = "lucene";
+const string PerformanceTester::FIELNAME = "inspec";
 
 PerformanceTester::PerformanceTester() {
     string path = "test/" + FIELNAME + "_doc.txt";

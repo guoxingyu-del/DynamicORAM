@@ -36,7 +36,7 @@ def clear_data():
     bandwith_normal_circuit.clear()
     stash_normal_circuit.clear()
 
-choice_str = ["Add", "Del", "Access"]
+choice_str = ["Addinspec", "Delinspec", "Accessinspec"]
 
 def read_data(choice):
     flag = False
